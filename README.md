@@ -38,7 +38,7 @@ BERT-based model for detecting emotions in social media texts.
 
 ## 📫 Contact
 
-- [LinkedIn](www.linkedin.com/in/david-callejo-sanz)  
+- LinkedIn: https://www.linkedin.com/in/david-callejo-sanz/
 - 🌐 Portfolio (coming soon)
 
 ---
