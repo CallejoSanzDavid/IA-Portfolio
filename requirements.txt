@@ -1,0 +1,11 @@
+# To install all the packages required, use:
+# pip install -r requirements.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+tensorflow
+streamlit
+transformers
